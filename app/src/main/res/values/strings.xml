@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="pindai_qrcode">Pindai QRCode</string>
+    <string name="hasil_pindaian">Hasil Pindaian:</string>
+</resources>
